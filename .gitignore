@@ -73,3 +73,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+BuildingEscape_Cpp/Binaries/
+BuildingEscape_Cpp/Intermediate/
+BuildingEscape_Cpp/Saved/
